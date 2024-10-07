@@ -1,5 +1,5 @@
 # HISNUC-GTEx
-
+# Data resources:
 QuPath extracted nuclear feature:
 A. summary statistics of nuclear features are available for download here:
 [`summary statistics`](qupath-nuclear-feature-summary-statistics.zip)
@@ -22,3 +22,12 @@ Raw nucleus features extracted by QuPath for each tissue are available for downl
 (12)[`artery-tibial`](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fs3.amazonaws.com%2Forg.gersteinlab.archive.pub%2Fpapers%2Fgtex-nuc-features%2Fqupath-artery-tibial.tar.gz&data=05%7C02%7Cran.meng%40yale.edu%7Ca8e8fee1137a4fd3a87908dce547cbf5%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C638637344316929421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=dDkGRGodFjRQnCBNA8ZMhm64jDlsqK7o0ldhxvDmUlk%3D&reserved=0)
 
 ImageQTL results with LD prunned using FUMA are available here: [`ImageQTL`](ImageQTL-FUMA-result.zip)
+
+DE genes results are splitted into three parts due to file size limitations. [`DEgenes1`](DE_genes_part1.zip)[`DEgenes2`](DE_genes_part2.zip)[`DEgenes3`](DE_genes_part3.zip)
+
+EWAS results (only for lung tissues) [`EWAS-lung`](EWAS.zip)
+
+# Code resources:
+HISNUC-Age model code: [`HISNUC-Age`](HISNUC-Age-code.py)
+
+
