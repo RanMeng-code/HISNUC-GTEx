@@ -28,6 +28,7 @@ DE genes results are splitted into three parts due to file size limitations. [`D
 EWAS results (only for lung tissues) [`EWAS-lung`](EWAS.zip)
 
 # Code resources:
+HISNUC-X model code:[`HISNUC-X`](HISNUC-Age-code.py)
 HISNUC-Age model code: [`HISNUC-Age`](HISNUC-Age-code.py)
 
 
