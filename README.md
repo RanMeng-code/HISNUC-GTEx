@@ -29,6 +29,11 @@ EWAS results (only for lung tissues) [`EWAS-lung`](EWAS.zip)
 
 # Code resources:
 HISNUC-X model code:[`HISNUC-X`](HISNUC-Age-code.py)
+
+HISNUC-X trained 12 models:
+
 HISNUC-Age model code: [`HISNUC-Age`](HISNUC-Age-code.py)
+
+HISNUC-Age trained 12 models:
 
 
