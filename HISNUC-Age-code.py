@@ -517,8 +517,8 @@ def build_model(output_units: int, input_shape: tuple, feature_input_shape: int)
     model.add(layers.Dense(units=512, activation='relu'))
     model.add(layers.Dense(units=256, activation='relu'))
 
-    age_input = keras.layers.Input(shape=(feature_input_shape,), name='nucleus_input')
-    merged = Concatenate()([model.output, age_input])
+    nuc_input = keras.layers.Input(shape=(feature_input_shape,), name='nucleus_input')
+    merged = Concatenate()([model.output, nuc_input])
     merged1= layers.Dense(units=64, activation='relu')(merged)
     
     merged2=layers.Dense(units=16, activation='relu')(merged1)
