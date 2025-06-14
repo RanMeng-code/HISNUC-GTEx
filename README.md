@@ -37,5 +37,7 @@ HISNUC-Age model code: [`HISNUC-Age-code`](HISNUC-Age_code.zip)
 
 HISNUC-Age trained 12 models : [`HISNUC-Age-models`](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Forg.gersteinlab.archive.pub%2Fpapers%2Fgtex-imaging-data%2FHISNUC-Age-model.zip&data=05%7C02%7Cran.meng%40yale.edu%7C919153f1d7774300aa4c08dd0d6b140a%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C638681476596525546%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qkHbP%2BJnsErwvk8XkB6CBSTwjSnGY%2BvQKq8RpFRE3yk%3D&reserved=0)
 
+HISNUC version2 code: [`HISNUC-version2`]
+
 
 
